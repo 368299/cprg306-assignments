@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "name": "Milk",
+      "quantity": 2,
+      "category": "Dairy"
+    },
+    {
+      "id": "2",
+      "name": "Bread",
+      "quantity": 1,
+      "category": "Bakery"
+    },
+    {
+      "id": "3",
+      "name": "Eggs",
+      "quantity": 12,
+      "category": "Poultry"
+    }
+  ]
+  
